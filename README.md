@@ -18,3 +18,4 @@ npm run dev
 - **Shaders**: WebGL (Custom 4D Simplex Noise Transition Curtain)
 - **Smooth Scroll**: Lenis
 - **Audio**: Custom Audio Player with Auto-Ducking
+
